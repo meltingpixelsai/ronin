@@ -2,7 +2,7 @@
 
 **RONIN** detects emerging narratives across the Solana ecosystem by cross-referencing on-chain activity, developer signals, and market data. It then generates actionable build ideas for each narrative.
 
-**Live Demo:** [ronin-solana.vercel.app](https://ronin-solana.vercel.app)
+**Live Demo:** [ronin-wheat.vercel.app](https://ronin-wheat.vercel.app)
 
 **API Endpoint:** `GET /api/analyze` returns structured JSON of all detected narratives, signals, and build ideas.
 
