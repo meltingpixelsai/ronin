@@ -251,7 +251,7 @@ export default async function Dashboard() {
               Last Analysis
             </span>
             <span className="text-sm font-mono text-foreground/60">
-              {new Date(result.analyzedAt).toLocaleTimeString()}
+              {new Date(result.analyzedAt).toLocaleTimeString('en-US', { timeZone: 'America/New_York' })}
             </span>
           </div>
         </div>
